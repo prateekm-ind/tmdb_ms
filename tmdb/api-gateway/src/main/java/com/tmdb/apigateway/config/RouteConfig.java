@@ -1,6 +1,10 @@
 package com.tmdb.apigateway.config;
 
 public class RouteConfig {
+    //java based configuration for routes
+    //optional
+    //we can leverage application.properties based configuration
+
     /*
     @Bean
     public RouteLocator modifiedRouteLocation(RouteLocatorBuilder routeLocatorBuilder){
